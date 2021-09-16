@@ -1,2 +1,2 @@
 # ecommerce-demo
-demo of ecpmmerce website
+demo of ecommerce website
